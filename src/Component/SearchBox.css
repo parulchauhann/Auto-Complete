@@ -1,0 +1,17 @@
+ul{
+    list-style-type: none;
+    background-color: rgb(202, 202, 202);
+    max-width: 19vw;
+    padding: 1vw;
+    margin-top: 1vw; 
+    font-size: 1vw;   
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+    width: 19vw;
+}
+#noResults{
+    margin-top: 3vw;
+    text-align: center;
+}
